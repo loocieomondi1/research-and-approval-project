@@ -15,13 +15,13 @@ USING MODERN, NEXT.JS, PAYPAL, PAYSTACK INTEGRATION
 
 > This hence results to the whole idea behind farmers and food products to be soled online, to solve a problem of helping seller get market online and buyers buy online.
 
-In this blog, you will learn how to build a modern e-commerce storefront, using Paypal and Paystack integration. 
+In this reserch project, you will learn how to build a modern e-commerce storefront, using Paypal and Paystack integration. 
 
 ## Inspiration behind the application
 
-> My inspiration came from a life experience, where people of the world are faced with virtual many challenges that distracts there daily life actives and of those are the issues of easy accessibility to food and food products.  such challenges can be so overwhelmed, imagine coming back from the office and realizing that you have no groceries at home and you need to make food cause you are hungry at that time you can’t have easy means to get a food or groceries.
+> My inspiration came from a life experience, where people of the world are faced with virtual challenges that distracts their daily lives actives such as the issues of easy accessibility to food and food products.  such challenges can be so overwhelming ofcause, let's take an example; imagine coming back from work,8-5 maybe  and realizing that you have no groceries,no food at home yet you are hungry and not to mention exhausted at the same time. Frustrating. right??
 
-> So to solve such a problem, I got inspired to be innovative, and be part of those solving world problem by creating an application where people can be at the comfort of their home or offices or any place at a particular time and make orders online and get there food and groceries delivered to them at the comfort of their habit.
+> To solve such a problem, an inspired and innovative thought kicked in booom...., hoping this will highly be  part of those solving world problem by incooperating  an application where people can at the comfort of their home or offices or any place at a particular time and make orders online and get there food and groceries delivered to them faster and comfortably.
 
 ## Overview
 
@@ -29,11 +29,11 @@ This project is composed of three different components: the headless backend, th
 
 It also provides bespoke commerce infrastructure for developers. Its composable commerce engine addresses the challenges of existing ecommerce platforms which APIs offer bad developer experiences, extension capabilities are insufficient, and results are hacky and hard to maintain.
 
-[Next.js](https://nextjs.org/) is a JavaScript open source framework for building superfast and extremely user-friendly frontend websites using React. It is a server-rendered, lightweight, and flexible React framework that requires little or no configuration during usage.
+[ext.js](https://extjs.org/) is a JavaScript open source framework for building superfast and extremely user-friendly frontend websites using React. It is a server-rendered, lightweight, and flexible React framework that requires little or no configuration during usage.
 
 Using this project to build your online stores gives you the opportunity to work with this project, which can be easily installed through CLI commands.
 
-Medusa Next.js storefront is a 100% ready-to-use Medusa storefront template. It comes with all ecommerce storefront features such as product display, featured products, shopping cart, checking out, multiple payment processing, and more.
+ext.js storefront is a 100% ready-to-use  storefront template. It comes with all ecommerce storefront features such as product display, featured products, shopping cart, checking out, multiple payment processing, and more.
 
 [PayPal](https://www.paypal.com/ng/home/) is a payment provider used by millions around the world. It allows customers to purchase orders from your website using their PayPal account rather than the need to enter their card details.
 
@@ -45,10 +45,9 @@ As a developer, you can use PayPal’s SDKs and APIs to integrate PayPal as a pa
 
 Algolia can be used for a wide range of use cases, including ecommerce websites. By integrating Algolia into your ecommerce website, you can provide your customers with a better user experience and help them find what they’re looking for swifltly.
 
-Through Medusa's flexible plugin system, it is possible to add a search engine to your Medusa backend and storefront using Algolia with just a few steps.
+Through project's flexible plugin system, it is possible to add a search engine to your  backend and storefront using Algolia with just a few steps.
 
-[S3](https://aws.amazon.com/s3/) To manage images in this project, you need a file service plugin responsible for hosting the images. Without a file service plugin, you will face issues while working with Medusa, such as when uploading images for products.
-
+[S3](https://ws.amazon.com/s3/) To manage images in this project, you need a file service plugin responsible for hosting the images. Without a file service plugin, you will face issues while working with the project, such as when uploading images
 The project provides three different options to handle your file storage.
 
 # Prerequisites
@@ -66,7 +65,7 @@ To follow through this tutorial, make sure to have:
 * S3 Account with API Secret and Public Key [here](https://aws.amazon.com/s3/)
 
  
-# Set up Your Food Restaurant and Market Store E-commerce with Medusa
+# Set up Your Food Restaurant and Market Store E-commerce with us
 
 * **Backend installation and setup using  CLI*
 
