@@ -11,17 +11,17 @@ USING MODERN, NEXT.JS, PAYPAL, PAYSTACK INTEGRATION
 
 ## Significant of this project
 
-> Farmers and their productive  Food items are one of the best lucrative businesses around the world. They get patronage on a daily basis without being much affected by a country economy's because people depend on food for survival.
+> Farmers and their productive  Food items are one of the best lucrative businesses around the world. They get patronage on a daily basis without being much affected by the country's economy because people depend on food for survival.
 
-> This project hence came about to solve a problem of helping seller get market online and buyers buy online.
+> This hence results to the whole idea behind farmers and food products to be soled online, to solve a problem of helping seller get market online and buyers buy online.
 
-In this research project, you will learn how to build a modern e-commerce storefront, using Paypal and Paystack integration. 
+In this blog, you will learn how to build a modern e-commerce storefront, using Paypal and Paystack integration. 
 
 ## Inspiration behind the application
 
-> The inspiration came from a life experience, where people of the world are faced with virtual many challenges that distracts there daily life actives and of those are the issues of easy accessibility to food and food products.  such challenges can be so overwhelming, imagine coming back from work and realizing that there are no groceries at home yet you are tired and hungry at the same time 
+> My inspiration came from a life experience, where people of the world are faced with virtual many challenges that distracts there daily life actives and of those are the issues of easy accessibility to food and food products.  such challenges can be so overwhelmed, imagine coming back from the office and realizing that you have no groceries at home and you need to make food cause you are hungry at that time you can’t have easy means to get a food or groceries.
 
-> To solve this  problem, an inspiration to be innovative kicked in,to be  part of those solving world problem by creating an application where people can access it comfortably in their homes or places of work,  and make orders online and get there food and groceries delivered to them wherever they are.
+> So to solve such a problem, I got inspired to be innovative, and be part of those solving world problem by creating an application where people can be at the comfort of their home or offices or any place at a particular time and make orders online and get there food and groceries delivered to them at the comfort of their habit.
 
 ## Overview
 
