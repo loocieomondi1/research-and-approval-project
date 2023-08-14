@@ -127,7 +127,7 @@ On this page, you'll find the Application ID, Search-Only API Key, and Admin API
 
 **install the Algolia Plugin**
 
-In the directory of your Medusa backend, run the following command to install the Algolia plugin:
+In the directory of your backend, run the following command to install the Algolia plugin:
 
 ```
 
