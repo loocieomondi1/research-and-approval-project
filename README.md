@@ -93,4 +93,43 @@ Finally, start up the created server.
 ```
 
 ```
+ **Create an Algolia App**
+ 
+The first step is to create an Algolia app for your  backend. To create one, open your dashboard, go to Settings then choose Applications.
+
+On the Applications page, click on the New application button at the top right.
+
+![image](https://user-images.githubusercontent.com/106968663/229312418-82999b08-e7de-4437-ab50-1b606eb5680a.png)
+
+In the new page that opens, optionally enter a name for the application and choose a subscription plan. You can choose the Free plan for now, but it's recommended to switch to the Pay-as-you-go plan as your business grows.
+
+![image](https://user-images.githubusercontent.com/106968663/229312440-8760c271-7739-4a76-b7bd-152c0949a697.png)
+
+Once done, click on the Next Step button. If you picked Pay as you go service, you'll need to enter billing details before you proceed.
+
+Then, you'll be asked to pick a region for your application. Once you're done, click on Review Application Details.
+
+![image](https://user-images.githubusercontent.com/106968663/229312482-6bfce1d4-15f0-4a86-a868-c15b62acc6ed.png)
+
+In the last step, you'll see a summary of your order. If all looks good, check the checkboxes at the end of the form to indicate that you agree to the terms and conditions. Then, click on the Create Application button.
+
+![image](https://user-images.githubusercontent.com/106968663/229312521-20b46a05-9167-4e32-9f78-e221b91df344.png)
+
+**Retrieve API Keys**
+
+To retrieve the API keys that you'll use in the next sections, go to Settings, then choose API Keys in the Team and Access section.
+
+![image](https://user-images.githubusercontent.com/106968663/229312551-82271cad-6612-42c9-ab84-db714f92db11.png)
+
+On this page, you'll find the Application ID, Search-Only API Key, and Admin API Key. You'll need the Application ID and Admin API Key for the backend. As for the storefront, you'll need the Application ID and Search-Only API Key.
+
+![image](https://user-images.githubusercontent.com/106968663/229312580-f6f1743f-f695-4205-b43e-42aac9bbb32e.png)
+
+**install the Algolia Plugin**
+
+In the directory of your Medusa backend, run the following command to install the Algolia plugin:
+
+```
+
+```
 
